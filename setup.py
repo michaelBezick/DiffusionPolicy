@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'DiffusionPolicy'
+package_name = 'diffusion_policy'
 
 setup(
     name=package_name,
