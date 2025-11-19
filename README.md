@@ -1,0 +1,1 @@
+ros2 launch diffusion_policy ur_control.launch.py runtime_config_package:=diffusion_policy controllers_file:=controllers.yaml  ur_type:=ur5e robot_ip:=10.164.8.235
