@@ -512,7 +512,7 @@ def generate_launch_description():
             default_value=[
                 PathJoinSubstitution(
                     [
-                        FindPackageShare("ur_robot_driver"),
+                        FindPackageShare("diffusion_policy"),
                         "config",
                     ]
                 ),
